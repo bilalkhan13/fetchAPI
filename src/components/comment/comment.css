@@ -1,0 +1,15 @@
+.container__comments {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.comment__box {
+  margin: 15px;
+  background-color: rgba(0,0,0,0.1);
+  padding: 15px;
+}
+
+.comment__box:hover {
+  background-color: rgba(0,0,0,0.2);;
+}
